@@ -61,6 +61,8 @@
 
 - Manjaro 20.1 (kernel 5.9)
 
+- Debian bullseye (Kernal 5.10 AMD-64)
+
 - Raspberry Pi OS (2021-01-11) (ARM 32 bit) (kernel 5.4)
 
 - Ubuntu 20.10 (kernel 5.8)
@@ -74,6 +76,7 @@
 - [Manjaro](https://manjaro.org)
 - [Raspberry Pi OS](https://www.raspberrypi.org)
 - [Ubuntu](https://www.ubuntu.com)
+- [Debian Bullseye/Testing](https://www.debian.org)
 
 ### Tested Hardware
 
@@ -84,6 +87,9 @@ Note: Cudy does a good job of posting updated source code from Realtek. Support 
 - [EDUP EP-AC1605GS WiFi Adapter 1300Mbps USB 3.0 High Gain Wireless Adapter](https://www.amazon.com/gp/product/B07Q56K68T)
 
 - [FIDECO 6B21-AC1200M WiFi Adapter - AC1200 Dual Band](https://www.amazon.co.uk/gp/product/B08523KPP9)
+
+### Half Tested Hardware confirmed as working by Tom-Linux
+  [USB WiFi Adapter for PC - 802.11AC 1200Mbps Dual 5Dbi Antennas 5G/2.4G] (https://www.amazon.com/Wireless-USB-WiFi-Adapter-PC/dp/B07V4R3QHW/ref=sr_1_16?crid=34LGTXR3VOCIV&dchild=1&keywords=nine+plus+usb+wifi+adapter&qid=1612040995&sprefix=nineplus+usb+%2Caps%2C205&sr=8-16)
 
 ### Compatible Devices
 
@@ -103,6 +109,8 @@ Note: Some adapter makers change the chipsets in their products while keeping th
 * TP-Link Archer T3U Plus
 * TP-Link Archer T4U V3
 * TRENDnet TEW-808UBM
+* NinePlus USB WiFi Adapter for PC - 802.11AC 1200Mbps Dual 5Dbi Antennas 5G/2.4G.
+
 * Numerous additional products that are based on the supported chipsets
 
 ### Installation Information
