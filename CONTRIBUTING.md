@@ -1,0 +1,2 @@
+I am contributing by testing daily the Nineplus USB WiFi Adapter for PC - 802.11AC 1200Mbps Dual 5Dbi Antennas 5G/2.4G, which has the RTL8812BU chipset this dongle is confirmed as working on Debian Bullseye.
+Linux kernal version I have tested this on is 5.10.0-2-amd64. I am using the 88x2bu driver forked from Morrownr. I hope this dongle works for other features that this kernal driver supports. Big thanks to all that have committed to this driver.
